@@ -2,4 +2,4 @@
 "bianim-skills": major
 ---
 
-Remove all skills from the repository and plugin.
+Remove the previous skill collection from the repository and plugin.

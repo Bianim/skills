@@ -1,3 +1,3 @@
 # Installation guidance
 
-The repository currently contains no skills. Do not instruct users to install individual skills or claim that the plugin provides any. When skills are added, document verified installation and update instructions in the root README.
+Keep installation instructions in the root README. Plugin hosts that support lifecycle hooks can load the bundled hooks; Codex requires hook trust. Installing an individual skill does not install plugin hooks.

@@ -1,0 +1,8 @@
+{
+  "description": "c-code-standards: 在会话、用户消息和子代理开始时加载 C 代码规范。",
+  "hooks": {
+    "SessionStart": [{"hooks": [{"type": "command", "command": "python \"${CLAUDE_PLUGIN_ROOT}/hooks/c_code_standards_session_start.py\"", "timeout": 10, "statusMessage": "c-code-standards：会话开始，加载 C 代码规范"}]}],
+    "UserPromptSubmit": [{"hooks": [{"type": "command", "command": "python \"${CLAUDE_PLUGIN_ROOT}/hooks/c_code_standards_user_prompt.py\"", "timeout": 10, "statusMessage": "c-code-standards：用户发消息，加载 C 代码规范"}]}],
+    "SubagentStart": [{"hooks": [{"type": "command", "command": "python \"${CLAUDE_PLUGIN_ROOT}/hooks/c_code_standards_subagent_start.py\"", "timeout": 10, "statusMessage": "c-code-standards：子代理开始，加载 C 代码规范"}]}]
+  }
+}

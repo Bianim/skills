@@ -1,7 +1,7 @@
 {
   "name": "bianim-skills",
   "version": "1.3.2",
-  "description": "Agent skills repository, currently empty.",
+  "description": "Agent skills for engineering and productivity.",
   "author": {
     "name": "Bianim",
     "url": "https://github.com/Bianim"
@@ -14,5 +14,7 @@
     "engineering",
     "productivity"
   ],
-  "skills": []
+  "skills": [
+    "./skills/engineering/c-code-standards"
+  ]
 }

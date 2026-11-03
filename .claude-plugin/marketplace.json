@@ -4,19 +4,18 @@
     "name": "Bianim",
     "url": "https://github.com/Bianim"
   },
-  "description": "Agent skills repository, currently empty.",
+  "description": "Agent skills for engineering and productivity.",
   "plugins": [
     {
       "name": "bianim-skills",
       "source": "./",
-      "description": "Agent skills repository, currently empty.",
+      "description": "Agent skills for engineering and productivity.",
       "category": "engineering",
       "keywords": [
         "engineering",
         "skills",
-        "tdd",
-        "code-review",
-        "grilling"
+        "c",
+        "coding-standards"
       ]
     }
   ]

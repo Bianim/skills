@@ -1,6 +1,6 @@
 # 项目指令
 
-技能存放在 `skills/` 下的两个分类中：`engineering/` 用于工程工作，`productivity/` 用于通用效率工作。当前没有技能。
+技能存放在 `skills/` 下的两个分类中：`engineering/` 用于工程工作，`productivity/` 用于通用效率工作。
 
 每个技能都必须在根目录 `README.md` 中有引用，并在 `.claude-plugin/plugin.json` 的 `skills` 数组中有条目。插件发布的技能集合必须与这两个分类完全一致。
 

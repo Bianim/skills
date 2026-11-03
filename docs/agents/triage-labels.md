@@ -2,7 +2,7 @@
 
 This file lists the issue labels used in this repository.
 
-| Label in mattpocock/skills | Label in our tracker | Meaning                                  |
+| Label in Bianim/skills | Label in our tracker | Meaning                                  |
 | -------------------------- | -------------------- | ---------------------------------------- |
 | `needs-triage`             | `needs-triage`       | Maintainer needs to evaluate this issue  |
 | `needs-info`               | `needs-info`         | Waiting on reporter for more information |

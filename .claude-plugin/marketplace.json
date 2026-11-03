@@ -1,13 +1,13 @@
 {
-  "name": "mattpocock",
+  "name": "bianim",
   "owner": {
-    "name": "Matt Pocock",
-    "url": "https://www.aihero.dev"
+    "name": "Bianim",
+    "url": "https://github.com/Bianim"
   },
   "description": "Agent skills repository, currently empty.",
   "plugins": [
     {
-      "name": "mattpocock-skills",
+      "name": "bianim-skills",
       "source": "./",
       "description": "Agent skills repository, currently empty.",
       "category": "engineering",

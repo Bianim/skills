@@ -1,13 +1,13 @@
 {
-  "name": "mattpocock-skills",
+  "name": "bianim-skills",
   "version": "1.3.2",
   "description": "Agent skills repository, currently empty.",
   "author": {
-    "name": "Matt Pocock",
-    "url": "https://www.aihero.dev"
+    "name": "Bianim",
+    "url": "https://github.com/Bianim"
   },
-  "homepage": "https://www.aihero.dev/s/skills-newsletter",
-  "repository": "https://github.com/mattpocock/skills",
+  "homepage": "https://github.com/Bianim/skills",
+  "repository": "https://github.com/Bianim/skills",
   "license": "MIT",
   "keywords": [
     "skills",

@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Keep it short and put the repro first. If an agent wrote this for you, cut it down to the repro before you post. See [CONTRIBUTING.md](https://github.com/Bianim/skills/blob/main/CONTRIBUTING.md).
+        Keep it short and put the repro first. If an agent wrote this for you, cut it down to the repro before you post.
 
         Installer problems with `npx skills` belong at skills.sh.
   - type: input

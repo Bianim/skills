@@ -1,4 +1,5 @@
 # 项目私有目录
+node_modules
 .claude
 .codex
 .vscode

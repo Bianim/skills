@@ -1,6 +1,6 @@
-# Skills Repository
+# Bianim Skills
 
-本仓库是技能库，包含工程和效率技能。
+本仓库是 [Bianim 的技能库](https://github.com/Bianim/skills)，包含工程和效率技能。
 
 - [工程技能](./skills/engineering/README.md)
 - [效率技能](./skills/productivity/README.md)

@@ -3,3 +3,7 @@ node_modules
 .claude
 .codex
 .vscode
+
+# Python 缓存
+__pycache__/
+*.pyc

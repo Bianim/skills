@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/icon.svg" width="96" height="96" alt="Bianim Skills 图标">
+</p>
+
 # Bianim Skills
 
 本仓库是 [Bianim 的技能库](https://github.com/Bianim/skills)，包含工程和效率技能。

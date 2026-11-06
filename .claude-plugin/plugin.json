@@ -1,7 +1,9 @@
 {
   "name": "bianim-skills",
+  "displayName": "Bianim Skills",
   "version": "0.1.0",
   "description": "Agent skills for engineering and productivity.",
+  "icon": "./assets/icon-512.png",
   "author": {
     "name": "Bianim",
     "url": "https://github.com/Bianim"

@@ -8,6 +8,7 @@
   "plugins": [
     {
       "name": "bianim-skills",
+      "displayName": "Bianim Skills",
       "source": "./",
       "description": "Agent skills for engineering and productivity.",
       "category": "engineering",

@@ -1,0 +1,40 @@
+{
+  "name": "bianim-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for engineering and productivity.",
+  "author": {
+    "name": "Bianim",
+    "url": "https://github.com/Bianim"
+  },
+  "homepage": "https://github.com/Bianim/skills",
+  "repository": "https://github.com/Bianim/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "engineering",
+    "productivity"
+  ],
+  "skills": [
+    "./skills/engineering/c-code-standards"
+  ],
+  "interface": {
+    "displayName": "Bianim Skills",
+    "shortDescription": "Agent skills for engineering and productivity.",
+    "longDescription": "A curated set of agent skills for engineering and productivity. Install the plugin to load the C coding standards skill, including session, prompt, and subagent hooks where the host supports them.",
+    "developerName": "Bianim",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/Bianim/skills",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon-512.png",
+    "brandColor": "#6366F1",
+    "defaultPrompt": [
+      "Review this C code against the project coding standards",
+      "Check the style and Chinese comments in these C files"
+    ],
+    "screenshots": []
+  }
+}

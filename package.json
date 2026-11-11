@@ -1,6 +1,6 @@
 {
   "name": "bianim-skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "Bianim agent skills repository",
   "repository": {
@@ -14,7 +14,6 @@
     "check-plugin-version": "node scripts/sync-plugin-version.mjs --check"
   },
   "devDependencies": {
-    "@changesets/changelog-github": "^0.7.0",
     "@changesets/cli": "^2.30.0"
   },
   "packageManager": "npm@10.9.4"

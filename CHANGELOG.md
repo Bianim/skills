@@ -1,5 +1,11 @@
 # bianim-skills
 
+## 0.2.1
+
+### Patch Changes
+
+- 2df5e37: 局部修改的注释范围与改动及已知上下文相符，不将小功能写成整个文件或函数的用途
+
 ## 0.2.0
 
 ### Minor Changes

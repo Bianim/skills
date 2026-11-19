@@ -1,5 +1,11 @@
 # bianim-skills
 
+## 0.2.2
+
+### Patch Changes
+
+- 精简 c-code-standards 规范并明确函数体注释写法
+
 ## 0.2.1
 
 ### Patch Changes

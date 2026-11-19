@@ -1,5 +1,11 @@
 # bianim-skills
 
+## 0.2.3
+
+### Patch Changes
+
+- 4d3f247: c-code-standards 原地合并注释以避免重复
+
 ## 0.2.2
 
 ### Patch Changes
